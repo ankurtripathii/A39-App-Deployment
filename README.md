@@ -27,7 +27,7 @@ This assignment demonstrates the deployment of my CodeLlama Coding Assistant on 
 
 ## Streamlit Community Cloud Deployment
 
-Live Application:
+Live Application: https://a39-app-deployment-ankur.streamlit.app/
 
 
 ### Deployment Steps
@@ -44,7 +44,7 @@ Live Application:
 
 ## Hugging Face Spaces
 
-Space Link:
+Space Link: https://huggingface.co/spaces/ankurtripathii/a39-assignment
 
 
 
